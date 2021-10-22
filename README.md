@@ -1,6 +1,6 @@
-# Kiosk User Service
+# Service Template
 
-Kiosk User Service is an app of compilation of user services.
+Service Template is a template for creating backend services.
 
 ## Installation
 
